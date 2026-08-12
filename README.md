@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin Cardenas</h1>
 <h3 align="center">A Computer Science student from Chile</h3>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Azure AI**
 
 - 📫 How to reach me **jicardenas@miuandes.cl**
 
